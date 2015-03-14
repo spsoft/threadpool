@@ -1,0 +1,12 @@
+This is an implementation for the following requirements:
+	http://paul.rutgers.edu/~csgates/CS416/proj2/index.html
+
+The spserver code was tested under Linux and Windows.
+Use native thread api on each platform: pthread for Linux, Windows Thread for Windows.
+
+Reports of successful use are appreciated.
+
+Enjoy!
+
+			-- stephen liu <stephen.nil@gmail.com>
+
